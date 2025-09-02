@@ -1,8 +1,0 @@
-# Ignorar tudo por padrão
-/*
-
-# Exceto o README.md na raiz
-!/README.md
-
-# Exceto a pasta Módulo 3 e todo o seu conteúdo
-!/Módulo 3/
