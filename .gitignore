@@ -1,0 +1,8 @@
+# Ignora tudo
+/*
+
+# Exceto a pasta "Módulo 3"
+!/Módulo 3/
+
+# Exceto o README.md
+!/README.md
